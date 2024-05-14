@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="enter_the_title">Enter the Title</string>
+    <string name="add_note">Add Note.</string>
+    <string name="enter_the_description" />
+
+    <!--first page-->
+    <string name="button_text">Get Start</string>
+
+    <!--login page-->
+    <string name="hit1">Username</string>
+    <string name="hit2">Password</string>
+    <string name="btext1">Login</string>
+    <string name="btext2">Register</string>
+
+    <!--register page-->
+    <string name="hit3">Full Name</string>
+    <string name="hit4">Age</string>
+    <string name="hit5">Phone Number</string>
+    <string name="hit6">Email</string>
+    <string name="hit7">Password</string>
+    <string name="btext3">Register</string>
+</resources>
