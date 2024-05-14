@@ -29,7 +29,7 @@ class LoginActivity : AppCompatActivity() {
                 startActivity(intent)
                 finish()
             } else {
-                Toast.makeText(this, "Invalid credentials", Toast.LENGTH_LONG).show()
+                Toast.makeText(this, "Invalid credentials!!", Toast.LENGTH_LONG).show()
             }
         }
 
